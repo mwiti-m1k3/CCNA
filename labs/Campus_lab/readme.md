@@ -500,15 +500,7 @@ wr mem
 
 *(Do the same for all other subnets.)*
 
-### 13. Wireless Network Configurations
-
-(Specific configuration steps for WLC and APs would go here, not provided in original summary.)
-
-### 14. IPsec VPN on the Firewalls
-
-(Specific configuration steps for IPsec VPN would go here, not provided in original summary.)
-
-### 15. Verifying and Testing Configurations
+### 13. Verifying and Testing Configurations
 
 Conduct thorough testing to verify proper communication and ensure that all configured elements function as intended.
 
