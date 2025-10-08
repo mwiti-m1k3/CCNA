@@ -47,7 +47,7 @@ To contribute:
 5.  Push to the branch (`git push origin feature/YourProjectName`).
 6.  Open a Pull Request, detailing your contribution.
 
-Please refer to our `CONTRIBUTING.md` for more detailed guidelines.
+Please refer to our [`CONTRIBUTING.md`](https://github.com/mwiti-m1k3/Networking_Projects/blob/main/CONTRIBUTING.md) for more detailed guidelines.
 
 ### ❓ Questions & Support
 
